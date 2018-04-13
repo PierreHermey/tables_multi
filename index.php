@@ -48,9 +48,7 @@
 					echo "</table><br>";
 				?>
 			</article>
-			<div class="card-panel">
-				<a class="waves-effect waves-light btn pulse" href="quiz.php">Je souhaite m'entrainer dans le mode révision !</a>
-			</div>
+				<a class="waves-effect waves-light btn" href="quiz.php">Je souhaite m'entrainer dans le mode révision !</a>
 		</form>
 		<form class="container col s12  l6" action="index.php" method="post">	
 			<article class="card-panel hoverable">
